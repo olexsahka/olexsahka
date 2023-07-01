@@ -1,6 +1,7 @@
 <h2 align="left">
   <br> I'm Alex Sutugin, Android Mobile Developer :computer:<br>
 </h2> 
+  <img  align="right" width="250" src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif">  
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
 - :computer: Current: I'm a Mobile Android Developer
@@ -8,6 +9,7 @@
 - :hourglass_flowing_sand: Free time: Fond of mobile development, computer vision 
 - :zap: Fun fact: I love to attend Meetups for learning & Conferences for Networking<br>
 <h2 align="left">:hammer_and_wrench: Technologies and Tools I use:</h2>
+  <img  align="right" width="250" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=olexsashka&theme=dracula">  
 <p align="left">
     <a href="" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" alt="html5" width="40" height="40"/> </a>
     <a href="" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" alt="css3" width="40" height="40"/> </a>
@@ -23,6 +25,7 @@
     <a href="" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="css3" width="40" height="40"/> </a>
     <a href="" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/> </a>
 </p>
+
 
 
 <h2 align="left">:heart: Let's get connected:</h2>
