@@ -10,19 +10,19 @@
 - :zap: Fun fact: I love to attend Meetups for learning & Conferences for Networking<br>
 <h2 align="left">:hammer_and_wrench: Technologies and Tools I use:</h2>
 <p align="left">
-    <a href="" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" alt="html5" width="40" height="40"/> </a>
-    <a href="" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" alt="css3" width="40" height="40"/> </a>
-    <a href="" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="css3" width="40" height="40"/> </a>
-    <a href="" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" alt="css3" width="40" height="40"/> </a>
-    <a href="" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="css3" width="40" height="40"/> </a>
-    <a href="" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="css3" width="40" height="40"/> </a>
-    <a href="" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="css3" width="40" height="40"/> </a>
-    <a href="" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" alt="css3" width="40" height="40"/> </a>
-    <a href="" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" alt="css3" width="40" height="40"/> </a>
-    <a href="" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="css3" width="40" height="40"/> </a>
-    <a href="" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" alt="css3" width="40" height="40"/> </a>
-    <a href="" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="css3" width="40" height="40"/> </a>
-    <a href="" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/> </a>
+    <a href="" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg"  width="40" height="40"/> </a>
+    <a href="" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" width="40" height="40"/> </a>
+    <a href="" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"  width="40" height="40"/> </a>
+    <a href="" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg"  width="40" height="40"/> </a>
+    <a href="" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg"  width="40" height="40"/> </a>
+    <a href="" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg"  width="40" height="40"/> </a>
+    <a href="" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"  width="40" height="40"/> </a>
+    <a href="" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg"  width="40" height="40"/> </a>
+    <a href="" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg"  width="40" height="40"/> </a>
+    <a href="" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="40" height="40"/> </a>
+    <a href="" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg"  width="40" height="40"/> </a>
+    <a href="" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"  width="40" height="40"/> </a>
+    <a href="" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"  width="40" height="40"/> </a>
 </p>
 
   <img  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=olexsahka&theme=dracula">  
@@ -33,4 +33,4 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link)](https://www.linkedin.com)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat-square&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://t.me/alexxxxsun)](https://t.me/alexxxxsun)
-[![Telegram Badge](https://img.shields.io/badge/-Gmail-blue?style=flat-square&labelColor=1ca0f1&logo=gmail&logoColor=white)](sutugin.qwerty123@gmail.com)
+[![Telegram Badge](https://img.shields.io/badge/-Gmail-blue?style=flat-square&labelColor=1ca0f1&logo=gmail&logoColor=white)](mailto:sutugin8@gmail.com)
