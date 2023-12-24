@@ -13,7 +13,6 @@
     <a href="" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg"  width="40" height="40"/> </a>
     <a href="" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" width="40" height="40"/> </a>
     <a href="" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"  width="40" height="40"/> </a>
-    <a href="" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg"  width="40" height="40"/> </a>
     <a href="" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg"  width="40" height="40"/> </a>
     <a href="" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg"  width="40" height="40"/> </a>
     <a href="" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"  width="40" height="40"/> </a>
