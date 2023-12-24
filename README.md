@@ -8,7 +8,7 @@
 - :book: Education:  Bachalor of St. Petersburg State University of Telecommunications
 - :hourglass_flowing_sand: Free time: Fond of mobile development, computer vision 
 - :zap: Fun fact: I love to attend Meetups for learning & Conferences for Networking<br>
-<h2 align="left">:hammer_and_wrench: Technologies and Tools I use:</h2>
+<h2 align="left">:hammer_and_wrench: Technologies and Tools I use:</h2> 
 <p align="left">
     <a href="" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg"  width="40" height="40"/> </a>
     <a href="" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" width="40" height="40"/> </a>
