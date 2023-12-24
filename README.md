@@ -25,7 +25,7 @@
     <a href="" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"  width="40" height="40"/> </a>
 </p>
 
-  <img  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=olexsahka&theme=dracula">  
+  <img  src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=olexsahka&theme=darcula">  
 
 
 
