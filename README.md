@@ -32,6 +32,6 @@
 <h2 align="left">:heart: Let's get connected:</h2>
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link)](https://www.linkedin.com)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link)](https://www.linkedin.com/in/alexander-sutugin-b487b8298/)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat-square&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://t.me/alexxxxsun)](https://t.me/alexxxxsun)
 [![Telegram Badge](https://img.shields.io/badge/-Gmail-blue?style=flat-square&labelColor=1ca0f1&logo=gmail&logoColor=white)](mailto:sutugin8@gmail.com)
